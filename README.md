@@ -4,6 +4,8 @@ Map 1 (Proportional Symbols Map) Link: https://github.com/billyle157/uscovid2020
 Map 2 (Choropleth Map) Link: https://github.com/billyle157/uscovid2020maps/blob/main/map2.html
 
 <img width="1916" height="1086" alt="Screenshot 2026-01-28 203355" src="https://github.com/user-attachments/assets/1ffa7576-e2f1-4a74-a560-415bb063f580" />
-<img width="1919" height="1086" alt="Screenshot 2026-01-28 235722" src="https://github.com/user-attachments/assets/553acdff-5818-4ebd-8c79-6df5c82c4e38" />
+<img width="1916" height="1083" alt="Screenshot 2026-01-30 141917" src="https://github.com/user-attachments/assets/0a212cc5-6d38-485b-9d3b-c7a349584e67" />
 
 (No AI tools were used in this assignment)
+
+
